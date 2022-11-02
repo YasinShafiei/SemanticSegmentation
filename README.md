@@ -3,7 +3,7 @@
 
 ### Article:
 Please go and check my article about this project. The link is available down here: <br>
-
+https://medium.com/@YasinShafiei/image-segmentation-with-custom-model-using-tensorflow-f3bec71d08d7 <br>
 
 ### Results:
 ![r1](https://user-images.githubusercontent.com/91404054/199533892-266721fe-4f88-442b-82a8-2f017148727b.png)
